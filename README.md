@@ -56,5 +56,5 @@ The project is organized into the following main directories:
 - Clone the repository and navigate to the project directory.
 - Compile and run the `Main` class.
 
-[https://lucid.app/lucidchart/1e831f6c-e339-4606-b2e9-90226421a172/edit?viewport_loc=-14922%2C-9424%2C37124%2C17800%2C0_0&invitationId=inv_1308ef3b-b40b-4634-bb64-ec9b07d44495](URL_TO_DIAGRAM)
+[Link to Lucidchart Diagram](https://lucid.app/lucidchart/1e831f6c-e339-4606-b2e9-90226421a172/edit?viewport_loc=-14922%2C-9424%2C37124%2C17800%2C0_0&invitationId=inv_1308ef3b-b40b-4634-bb64-ec9b07d44495)
 
